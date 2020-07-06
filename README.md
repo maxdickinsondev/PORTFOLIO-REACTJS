@@ -1,6 +1,6 @@
 # Portfólio web
 
-![portfolio](https://user-images.githubusercontent.com/59968647/82495460-8214fa80-9ac1-11ea-907c-ce239fb9d95a.png)
+![image](https://user-images.githubusercontent.com/59968647/86639998-4621f000-bfb0-11ea-89cf-e038c4304f11.png)
 
 - Este portfólio foi desenvolvido com o intuito de praticar meus conhecimentos em ReactJS e CSS. E também para mim ter uma página pesssoal exibindo minhas habilidades, conhecimentos, projetos e informações pessoais.
 
