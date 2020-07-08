@@ -71,7 +71,7 @@ export default function Skills() {
                         <Card>
                             <Label>HTML</Label>
                             <Progress>
-                                <Inner style={{ width: '85%' }}>
+                                <Inner style={{ width: '86%' }}>
                                         
                                 </Inner>
                             </Progress>
