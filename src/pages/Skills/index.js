@@ -67,6 +67,24 @@ export default function Skills() {
                                 </Inner>
                             </Progress>
                         </Card>
+
+                        <Card>
+                            <Label>HTML</Label>
+                            <Progress>
+                                <Inner style={{ width: '85%' }}>
+                                        
+                                </Inner>
+                            </Progress>
+                        </Card>
+
+                        <Card>
+                            <Label>CSS</Label>
+                            <Progress>
+                                <Inner style={{ width: '75%' }}>
+                                        
+                                </Inner>
+                            </Progress>
+                        </Card>
                     </SkillsContent>
                 </Container>
             </SkillsTag>
