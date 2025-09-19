@@ -18,7 +18,7 @@ export default function Contact() {
           <Title>Contato</Title>
 
           <ContactContent>
-            <ButtonSubmit href="mailto:maxsantistadickinson@gmail.com">
+            <ButtonSubmit href="mailto:max.dickinson.dev@gmail.com">
               Enviar mensagem
             </ButtonSubmit>
           </ContactContent>
