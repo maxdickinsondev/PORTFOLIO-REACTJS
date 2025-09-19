@@ -29,7 +29,7 @@ export default function Footer() {
               <span className="fa fa-envelope"></span>
             </Icon>
             <H4>Email</H4>
-            <Paragraph>maxsantistadickinson@gmail.com</Paragraph>
+            <Paragraph>max.dickinson.dev@gmail.com</Paragraph>
           </Box>
 
           <Box>
